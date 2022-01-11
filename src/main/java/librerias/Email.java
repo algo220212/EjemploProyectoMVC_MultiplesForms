@@ -21,8 +21,8 @@ public class Email implements Runnable{
 	props.put("mail.smtp.port", "587");
         
         
-        props.put("username", "algo2.20202@gmail.com");
-	props.put("password", "secreto.123");
+        props.put("username", "algo2@gmail.com");
+	props.put("password", "secreto");
         
         props.put("to", to);
         props.put("subject", subject);
